@@ -219,6 +219,8 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 - Use `kubectl get all` to verify services are running.
 - LoadBalancer IP from ArgoCD and Grafana can be used to access frontend & monitoring.
 
+<img width="2048" alt="image" src="https://github.com/user-attachments/assets/82a25975-c8f3-4b74-83ae-0c14692f388a" />
+
 ---
 
 ## 📎 Useful Links
